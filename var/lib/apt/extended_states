@@ -1,0 +1,208 @@
+Package: libxdmcp6
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libdevmapper1.02.1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: dmsetup
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libgssapi-krb5-2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: amd64
+Auto-Installed: 1
+
+Package: vim-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libargon2-1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: dbus
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libkmod2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpam-cap
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libelf1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libncurses6
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: amd64
+Auto-Installed: 1
+
+Package: isc-dhcp-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libisc-export1100
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libprocps7
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libapparmor1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: krb5-locales
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libc-l10n
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: amd64
+Auto-Installed: 1
+
+Package: psmisc
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libatm1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcap2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: systemd-sysv
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcap2-bin
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxmuu1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpam-systemd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: systemd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: xxd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libdns-export1104
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libnss-systemd
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxtables12
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libidn11
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: xauth
+Architecture: amd64
+Auto-Installed: 1
+
+Package: lsb-base
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libcryptsetup12
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libssl1.1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libjson-c3
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libip4tc0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmnl0
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: amd64
+Auto-Installed: 1
+
